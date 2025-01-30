@@ -1,0 +1,1 @@
+This repository showcases a common error related to the undef value in Perl. The `bug.pl` file contains code that incorrectly compares `undef` using `eq`, leading to unexpected behavior. The solution, provided in `bugSolution.pl`, demonstrates the correct way to check for undef values, highlighting best practices and avoiding potential pitfalls.
